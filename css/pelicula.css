@@ -1,0 +1,19 @@
+body
+{
+  background-color: pink;
+}
+
+.negrita
+{
+  font-weight: bold;
+}
+
+.bueno
+{
+  color: green;
+}
+
+.malo
+{
+  color: red;
+}
