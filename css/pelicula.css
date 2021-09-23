@@ -40,10 +40,25 @@ p
 
 .malo
 {
-  color: #D32F2F;
+  color: #FF3434;
 }
 
 .narrador
 {
   font-style: italic;
+}
+
+.metal
+{
+  color: #877070;
+}
+
+.cargar
+{
+  color: #AEAEAE;
+}
+
+.morir
+{
+  color: #B60000;
 }
