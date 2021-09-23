@@ -3,6 +3,12 @@ body
   background-color: pink;
 }
 
+div
+{
+  padding: 40px;
+  text-align: justify;
+}
+
 .negrita
 {
   font-weight: bold;
